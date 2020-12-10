@@ -15,8 +15,11 @@ Setup:install xampp,
       2nd column    | datetime  |  datetime   | datetime | datetime|          datatype:datetime
                     ------------------------------------------------
                     
-hardware requitment:
-                    nodeMCU, dht11 bh1750
+      install the library of esp8266.h, bh1750.h, Wire.h in Arduino IDE
+      type your wifi ssid and password, ip address
+                    
+hardware requitment: nodeMCU, dht11 bh1750
+
 hardware setup:  dht11 out-----nodeMCU D5 pin
                  bh1750 SCL------------D1 pin
                         SDA            D2 pin
