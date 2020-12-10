@@ -1,5 +1,5 @@
 # temperature-record-system
-                       *******************************Instrution************************************
+                       ******************************Instruction************************************
        Setup: 
        install xampp, 
        download fusion charts. https://www.fusioncharts.com/
