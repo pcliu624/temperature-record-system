@@ -16,7 +16,7 @@ long interval = 10000;
 void setup(){  
   Serial.begin(9600); 
   Wire.begin();
-   WiFi.begin("Asshole", "1233211234567");
+   WiFi.begin("YOUR SSID", "YOUR PW");
    WiFi.mode(WIFI_STA);
    dht.begin();
      
