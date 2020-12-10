@@ -1,8 +1,9 @@
 # temperature-record-system
-                                    *******************************Instrution************************************
-Setup:install xampp, 
-      download fusion charts. https://www.fusioncharts.com/
-      html file and fusion charts file move under location:/xampp/htdocs
+                       *******************************Instrution************************************
+       Setup: 
+       install xampp, 
+       download fusion charts. https://www.fusioncharts.com/
+       html file and fusion charts file move under location:/xampp/htdocs
       
       database setup:
       login phpmyadmin http://localhost/phpmyadmin/index.php?lang=en
