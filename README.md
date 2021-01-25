@@ -24,3 +24,4 @@
   dht11 out-----nodeMCU D5 pin
   bh1750 SCL------------D1 pin
   SDA            D2 pin
+![image](https://github.com/pcliu624/temperature-record-system/blob/main/IMG_20210125_142021.jpg)
