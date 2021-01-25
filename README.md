@@ -11,6 +11,7 @@
   add a new database name project
   create 4 tables, 2 columns each:
   ![image](https://github.com/pcliu624/temperature-record-system/blob/main/celdb.png)
+  
   datatype:
   1st column int
   2nd column datetime
