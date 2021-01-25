@@ -13,8 +13,7 @@
   ![image](https://github.com/pcliu624/temperature-record-system/blob/main/celdb.png)
   
   datatype:
-  1st column int
-  2nd column datetime
+  1st column INT, 2nd column datetime
                     
  install the library of esp8266.h, bh1750.h, Wire.h in Arduino IDE
  type your wifi ssid and password, ip address
